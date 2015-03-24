@@ -1,0 +1,1 @@
+RAZF is an indexable compression format
